@@ -23,7 +23,7 @@ import java.util.List;
  * fescar相关配置
  *
  * @author 卷小毛
- * @date 2019-4-8 13:43:19
+ * @date 2019-4-19 16:59:19
  */
 @Configuration
 public class FescarAutoConfiguration {

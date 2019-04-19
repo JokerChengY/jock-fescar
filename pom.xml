@@ -21,7 +21,7 @@
 		<spring-cloud.version>Edgware.SR4</spring-cloud.version>
         <javadoc.version>3.0.0</javadoc.version>
         <lombok.version>1.16.20</lombok.version>
-		<fescar.version>0.4.1</fescar.version>
+		<fescar.version>0.4.2</fescar.version>
         <druid.version>1.1.15</druid.version>
 	</properties>
 
@@ -33,6 +33,7 @@
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
         </dependency>
+
         <!-- springboot -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
